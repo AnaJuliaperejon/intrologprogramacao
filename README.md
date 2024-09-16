@@ -1,2 +1,2 @@
-# intrologprogramacao
+# intro.log.programacao
 ATIVIDADES REALIZADAS EM SALA DE AULA CURSO TEC INFORMATICA 1° ANO IFMT
